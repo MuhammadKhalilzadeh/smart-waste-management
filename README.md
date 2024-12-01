@@ -2,6 +2,10 @@
 
 ---
 
+![swm]("swm.webp")
+
+---
+
 #### **Morning: Residents Start Their Day**
 Maria, a resident of Green City, wakes up to a notification on her smartphone. The **Smart Waste Management App** sends her a gentle reminder: "It’s collection day! Please ensure your recyclables are segregated and ready by 9 AM." Maria quickly checks the app, which shows a map of nearby bins and their fill levels. 
 
