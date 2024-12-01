@@ -2,7 +2,7 @@
 
 ---
 
-![swm]("swm.webp")
+![swm](swm.webp)
 
 ---
 
